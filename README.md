@@ -2,9 +2,9 @@
 
   <img src="https://ligmatv.vercel.app/logo/favicon.svg" width="100">
 
-<h1>#StandWithPalestine</h1>
-
-<em>~ LIGMATV</em>
+```diff
+@@ #SavePalestine @@
+```
 
 This reposity made with [TechForPalestine/badges](https://github.com/TechForPalestine/badges) and [aborazmeh/awesome-palestine](https://github.com/aborazmeh/awesome-palestine).
 
