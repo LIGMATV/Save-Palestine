@@ -14,7 +14,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - [Official](#official)
 - [Documents \& Reports](#documents--reports)
-  - [Civilian Causalities Since 7th October](#civilian-causalities-since-7th-october)
+  - [Civilian Casualties Since 7th October](#civilian-casualties-since-7th-october)
 - [Essays \& Articles](#essays--articles)
 - [Books](#books)
   - [History](#history)
@@ -58,12 +58,12 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 📄 [Palestinian Return Centre](https://prc.org.uk)
 - 📄 [Madar Center](https://www.madarcenter.org)
 
-### Civilian Causalities Since 7th October
+### Civilian Casualties Since 7th October
 
-- 📄 [Detailed list of the civilian causalities between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.en.pdf) - English
-- 📄 [Detailed list of the children causalities between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/children-07-26-october.en.pdf) - English
-- 📄 [Detailed list of the civilian causalities including children between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.ar.pdf) - Arabic
-- 📄 [Detailed list of the civilian causalities between 07 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
+- 📄 [Detailed list of the civilian casualties between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the children casualties between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/children-07-26-october.en.pdf) - English
+- 📄 [Detailed list of the civilian casualties including children between 07-26 October](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-26-october.ar.pdf) - Arabic
+- 📄 [Detailed list of the civilian casualties between 07 October and 02 November (Gaza) / 05 January 2024 (South of Gaza)](https://github.com/aborazmeh/awesome-palestine/raw/main/documents/martyrs-07-october-02-november_gaza-05-january-2024_south.xlsx) - Arabic
 
 ## Essays & Articles
 
@@ -94,6 +94,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 ### Politics
 
+- 📚 [The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World, by Antony Loewenstein (2023)](https://www.goodreads.com/book/show/62790909)
 - 📚 [The Israel Lobby and U.S. Foreign Policy, by John J. Mearsheimer & Stephen M. Walt (2006)](https://www.goodreads.com/book/show/224127)
 - 📚 [Palestine Peace Not Apartheid, by Jimmy Carter (2006)](https://www.goodreads.com/book/show/9345)
 - 📚 [Fateful Triangle: The United States, Israel, and the Palestinians, by Noam Chomsky (1982)](https://www.goodreads.com/book/show/62698)
@@ -170,6 +171,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🎬 [Boycott (2021)](https://www.imdb.com/title/tt15721106) | [Boycott (2011) watch on justvision.org](https://justvision.org/boycott/watch)
 - 🎬 [Gaza Fights For Freedom (2019)](https://www.imdb.com/title/tt10825504) | ![Youtube icon](images/youtube.svg) [Gaza Fights For Freedom (2019)](https://www.youtube.com/watch?v=HnZSaKYmP2s) | ![Vimeo icon](images/vimeo.svg) [International Version (TUR, POL, ESP, FRA, DEU, SAU subtitles)](https://vimeo.com/381391163)
 - 🎬 [Killing Gaza (2018)](https://killinggaza.com) | ![Youtube icon](images/youtube.svg) [Killing Gaza (2018)](https://www.youtube.com/watch?v=Vwb2OlqTO0M)
+- 🎬 [The Occupation of the American Mind (2018)](https://www.occupationmovie.org/) | ![Youtube icon](images/youtube.svg) [The Occupation of the American Mind (2018)](https://www.youtube.com/watch?v=dP0-YohJR-g)
 - 🎬 [1948: Creation & Catastrophe (2017)](https://www.imdb.com/title/tt7977026/) | 🌐 [1948: Creation & Catastrophe (2017)](1948movie.com) | ![Youtube icon](images/youtube.svg) [1948: Creation & Catastrophe (2017)](https://www.youtube.com/watch?v=Bwy-Rf15UIs)
 - 🎬 [Censored Voices (2015)](https://www.imdb.com/title/tt3457376)
 - 🎬 ![Youtube icon](images/youtube.svg) [Al Nakba Documentary (2014)](https://www.youtube.com/playlist?list=PL30A8F80C4E383847) (multi-lingual)
@@ -198,11 +200,13 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌐 [CounterPunch](https://www.counterpunch.org/)
 - 🌐 [The Intercept](https://theintercept.com/)
 - 🌐 [Double Down News](https://www.doubledown.news)
+- 🌐 [MintPress News](https://www.mintpressnews.com/)
 
 ## War Supporting Companies
 
 - 🌐 [Boycott war supporting companies](https://boycott.thewitness.news) | ![Telegram icon](images/telegram.svg) [@savegazabot](https://t.me/Savegazabot)
 - 🌐 [bdnaash](https://bdnaash.com)
+- 🌐 [BoycottList](https://boycottlist.xyz)
 - 🌐 [boycotzionism](https://www.boycotzionism.com/)
 - 🌐🇹🇷 [Boykot Ürünleri](https://boykoturunleri.com.tr)
 - 🌐🇹🇷 [Boykot.co](https://www.boykot.co)
@@ -237,6 +241,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 
 - 🌱 [UNRWA](https://donate.unrwa.org)
 - 🌱 [Rahma International Society](https://www.khaironline.net/Projects/NewCampaignViewEn.aspx?PrjMarketingID=29031&PID=47&PrID=522)
+- 🌱 [Gaza Medical Tent Fundraiser](https://www.gofundme.com/f/emergency-medical-relief-for-gaza-via-gmt)
 - 🌱🇹🇷 [İHH İnsani Yardım Vakfı](https://ihh.org.tr)
 - 🌱🇹🇷 [Türk Kızılay- Filistin Genel Bağışı](https://www.kizilay.org.tr/Bagis/BagisYap/32)
 - 🌱 [The Palestinian Medical Relief Society](https://pmrs.ps)
@@ -250,6 +255,8 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 - 🌱🇬🇧 [MAP - Medical Aid for Palestinians](https://www.map.org.uk/)
 - 🌱🇬🇧 [One Nation - Gaza Emergency Appeal](https://onenationuk.org/gazaemergency)
 - 🌱🇵🇸 [Sulala Animal Rescue](https://sulalaanimalrescue.com/)
+- 🌱🇵🇸 [UMMATY](https://ummaty.org/donate/)
+- 🌱🇵🇰 [Al Khidmat Foundation](https://alkhidmat.org/appeal/emergency-appeal-palestine-save-lives-in-gaza-today)
 
 ## Petitions
 
@@ -271,6 +278,7 @@ Thanks. please refer to [this](https://github.com/aborazmeh/awesome-palestine/bl
 ## APIs
 
 - 🌐 [List of API endpoints providing data related to Palestine.](https://github.com/Zain-ul-din/awesome-palestine-apis)
+- 🌐 [Palestine Datasets by TFP](https://data.techforpalestine.org)
 
 ## Contributors
 
