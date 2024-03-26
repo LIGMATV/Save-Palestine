@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://ligmatv.vercel.app/logo/favicon.svg" width="100">
+  <img src="https://raw.githubusercontent.com/LIGMATV/LIGMATV/main/brand/icon.svg" width="100">
 
 ```diff
 @@ #SavePalestine @@
